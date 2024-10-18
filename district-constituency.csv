@@ -1,150 +1,290 @@
-District,Constituency
-Ahmednagar,Ahmednagar
-Ahmednagar,Newasa
-Ahmednagar,Parner
-Ahmednagar,Shirpur
-Ahmednagar,Shirur
-Ahmednagar,Sangamner
-Ahmednagar,Rahuri
-Ahmednagar,Akole
-Ahmednagar,Kopergaon
-Akola,Akola
-Akola,Akola City
-Akola,Balapur
-Akola,Baranjala
-Akola,Murtizapur
-Akola,Patur
-Akola,Shegaon
-Amravati,Amravati
-Amravati,Achalpur
-Amravati,Daryapur
-Amravati,Chikhaldara
-Amravati,Morshi
-Amravati,Teosa
-Amravati,Vadali
-Aurangabad,Aurangabad
-Aurangabad,Aurangabad East
-Aurangabad,Aurangabad West
-Aurangabad,Paithan
-Aurangabad,Vaijapur
-Aurangabad,Sillod
-Beed,Beed
-Beed,Ashti
-Beed,Dharur
-Beed,Kaij
-Beed,Patoda
-Bhandara,Bhandara
-Bhandara,Tumsar
-Bhandara,Lakhandur
-Bhandara,Sakoli
+District Name,Assembly Name
+Nandurbar,Akkalkuwa (ST)
+Nandurbar,Shahada (ST)
+Nandurbar,Nandurbar (ST)
+Nandurbar,Nawapur (ST)
+Dhule,Sakri (ST)
+Dhule,Dhule Rural
+Dhule,Dhule City
+Dhule,Sindhkheda
+Dhule,Shirpur (ST)
+Jalgaon,Chopda (ST)
+Jalgaon,Raver
+Jalgaon,Bhusawal (SC)
+Jalgaon,Jalgaon City
+Jalgaon,Jalgaon Rural
+Jalgaon,Amalner
+Jalgaon,Erandol
+Jalgaon,Chalisgaon
+Jalgaon,Pachora
+Jalgaon,Jamner
+Jalgaon,Muktainagar
+Buldhana,Malkapur
 Buldhana,Buldhana
 Buldhana,Chikhli
+Buldhana,Sindhkhed Raja
+Buldhana,Mehkar (SC)
 Buldhana,Khamgaon
-Buldhana,Malkapur
-Chandrapur,Chandrapur
-Chandrapur,Warora
-Chandrapur,Ballarpur
-Chandrapur,Bramhapuri
-Dhule,Dhule
-Dhule,Sakri
-Dhule,Shahada
-Dhule,Nandurbar
-Gadchiroli,Gadchiroli
-Gadchiroli,Chimur
-Gadchiroli,Mulchera
-Gadchiroli,Dhanora
-Gondia,Gondia
-Gondia,Tiroda
-Gondia,Sadak Arjuni
-Gondia,Mohadi
-Hingoli,Hingoli
-Hingoli,Aundha
-Hingoli,Kallam
-Hingoli,Sengaon
-Jalna,Jalna
-Jalna,Badnapur
-Jalna,Ambad
-Jalna,Partur
-Jalgaon,Jalgaon
-Jalgaon,Chalisgaon
-Jalgaon,Muktainagar
-Jalgaon,Bhadgaon
-Kolhapur,Kolhapur
-Kolhapur,Karvir
-Kolhapur,Radhanagari
-Kolhapur,Shahuwadi
-Mumbai,Mumbai
-Mumbai,Mumbai City
-Mumbai,Mumbai North
-Mumbai,Mumbai South
-Mumbai,Mumbai North East
-Mumbai Suburban,Mumbai Suburban
-Mumbai Suburban,Dahisar
-Mumbai Suburban,Borivali
-Mumbai Suburban,Vile Parle
-Nagpur,Nagpur
-Nagpur,Nandanvan
-Nagpur,Kalmeshwar
-Nagpur,Ramtek
-Nanded,Nanded
-Nanded,Nanded North
-Nanded,Nanded South
-Nanded,Mukhed
-Nanded,Naigaon
-Nashik,Nashik
-Nashik,Sinnar
-Nashik,Deolali
-Nashik,Kalwan
-Navi Mumbai,Navi Mumbai
-Navi Mumbai,Belapur
-Navi Mumbai,Airoli
-Navi Mumbai,Navi Mumbai North
-Navi Mumbai,Navi Mumbai South
-Osmanabad,Osmanabad
-Osmanabad,Khadki
-Osmanabad,Tuljapur
-Osmanabad,Umarga
-Palghar,Palghar
-Palghar,Vikramgad
-Palghar,Dahanu
-Palghar,Wada
-Parbhani,Parbhani
-Parbhani,Gangakhed
-Parbhani,Pathri
-Parbhani,Jintur
-Pune,Pune
-Pune,Chinchwad
-Pune,Shivajinagar
-Pune,Kothrud
-Raigad,Raigad
-Raigad,Karjat
-Raigad,Alibag
-Raigad,Uran
-Ratnagiri,Ratnagiri
-Ratnagiri,Chiplun
-Ratnagiri,Guhagar
-Ratnagiri,Rajapur
-Sindhudurg,Sindhudurg
-Sindhudurg,Kankavli
-Sindhudurg,Malvan
-Sindhudurg,Sawantwadi
-Solapur,Solapur
-Solapur,Barshi
-Solapur,Madha
-Solapur,Karmala
-Thane,Thane
-Thane,Bhiwandi
-Thane,Kalyan
-Thane,Mumbra
-Wardha,Wardha
+Buldhana,Jalgaon (Jamod)
+Akola,Akot
+Akola,Balapur
+Akola,Aakola West
+Akola,Akola East
+Akola,Murtizapur (SC)
+Washim,Risod
+Washim,Washim (SC)
+Washim,Karanja
+Amaravati,Dhamangaon Railway
+Amaravati,Badnera
+Amaravati,Amrawati
+Amaravati,Teosa
+Amaravati,Daryapur (SC)
+Amaravati,Melghat (ST)
+Amaravati,Achalpur
+Amaravati,Morshi
 Wardha,Arvi
 Wardha,Deoli
 Wardha,Hinganghat
-Washim,Washim
-Washim,Karanja
-Washim,Malegaon
-Washim,Mangrulpir
+Wardha,Wardha
+Nagpur,Katol
+Nagpur,Savner
+Nagpur,Hingna
+Nagpur,Umred (SC)
+Nagpur,Nagpur South West
+Nagpur,Nagpur South
+Nagpur,Nagpur East
+Nagpur,Nagpur Central
+Nagpur,Nagpur West
+Nagpur,Nagpur North (SC)
+Nagpur,Kamthi
+Nagpur,Ramtek
+Bhandara,Tumsar
+Bhandara,Bhandara (SC)
+Bhandara,Sakoli
+Gondiya,Arjuni Morgaon (SC)
+Gondiya,Tirora
+Gondiya,Gondia
+Gondiya,Amgaon (ST)
+Gadchiroli,Armori (ST)
+Gadchiroli,Gadchiroli (ST)
+Gadchiroli,Aheri (ST)
+Chandrapur,Rajura
+Chandrapur,Chandrapur (SC)
+Chandrapur,Ballarpur
+Chandrapur,Bramhapuri
+Chandrapur,Chimur
+Chandrapur,Warora
+Yavatmal,Wani
+Yavatmal,Ralegaon (ST)
 Yavatmal,Yavatmal
-Yavatmal,Pusad
 Yavatmal,Digras
-Yavatmal,Arni
+Yavatmal,Arni (ST)
+Yavatmal,Pusad
+Yavatmal,Umarkhed (SC)
+Nanded,Kinwat
+Nanded,Hadgaon
+Nanded,Bhokar
+Nanded,Nanded North
+Nanded,Nanded South
+Nanded,Loha
+Nanded,Naigaon
+Nanded,Deglur (SC)
+Nanded,Mukhed
+Hingoli,Basmath
+Hingoli,Kalamnuri
+Hingoli,Hingoli
+Parbhani,Jintur
+Parbhani,Parbhani
+Parbhani,Gangakhed
+Parbhani,Pathri
+Jalna,Partur
+Jalna,Gansavangi
+Jalna,Jalna
+Jalna,Badnapur (SC)
+Jalna,Bhokardan
+Aurangabad,Sillod
+Aurangabad,Kannad
+Aurangabad,Pholambari
+Aurangabad,Aurangabad (Central)
+Aurangabad,Aurangabad (West) (SC)
+Aurangabad,Aurangbad (East)
+Aurangabad,Paithan
+Aurangabad,Gangapur
+Aurangabad,Vaijapur
+Nashik,Nandgaon
+Nashik,Malegaon (Central)
+Nashik,Malegaon (Outer)
+Nashik,Baglan (ST)
+Nashik,Kalwan (ST)
+Nashik,Chandwad
+Nashik,Yevla
+Nashik,Sinnar
+Nashik,Niphad
+Nashik,Dindori (ST)
+Nashik,Nashik East
+Nashik,Nashik (Central)
+Nashik,Nashik West
+Nashik,Deolali (SC)
+Nashik,Igatpuri (ST)
+Thane,Bhiwandi Rural (ST)
+Thane,Shahapur (ST)
+Thane,Bhiwandi West
+Thane,Bhiwandi East
+Thane,Kalyan West
+Thane,Murbad
+Thane,Ambarnath (SC)
+Thane,Ulhasnagar
+Thane,Kalyan East
+Thane,Dombivali
+Thane,Kalyan Rural
+Thane,Meera Bhayandar
+Thane,Ovala majiwada
+Thane,Kopri-Pachpakhadi
+Thane,Thane
+Thane,Mumbra-Kalwa
+Thane,Airoli
+Thane,Belapur
+Mumbai Suburban,Borivali
+Mumbai Suburban,Dhaisar
+Mumbai Suburban,Magathane
+Mumbai Suburban,Mulund
+Mumbai Suburban,Vikhroli
+Mumbai Suburban,Bhandup West
+Mumbai Suburban,Jogeshwari East
+Mumbai Suburban,Dindoshi
+Mumbai Suburban,Kandivali East
+Mumbai Suburban,Charkop
+Mumbai Suburban,Malad West
+Mumbai Suburban,Goregaon
+Mumbai Suburban,Varsova
+Mumbai Suburban,Andheri West
+Mumbai Suburban,Andheri East
+Mumbai Suburban,Vile Parle
+Mumbai Suburban,Chandivali
+Mumbai Suburban,Ghatkopar West
+Mumbai Suburban,Ghatkopar East
+Mumbai Suburban,Mankhurd
+Mumbai Suburban,shivajinagar
+Mumbai Suburban,Anushakti Nagar
+Mumbai Suburban,Chembur
+Mumbai Suburban,Kurla (SC)
+Mumbai Suburban,Kailna
+Mumbai Suburban,Vandre East
+Mumbai Suburban,Vandre West
+Mumbai City,Dharavi (SC)
+Mumbai City,Sion Koliwada
+Mumbai City,Wadala
+Mumbai City,Mahim
+Mumbai City,Worli
+Mumbai City,Shivadi
+Mumbai City,Byculla
+Mumbai City,Malabar Hill
+Mumbai City,Mumbadevi
+Mumbai City,Colaba
+Raigad,Panvel
+Raigad,Karjat
+Raigad,Uran
+Raigad,Pen
+Raigad,Alibag
+Raigad,Shrivardhan
+Raigad,Mahad
+Pune,Junnar
+Pune,Ambegaon
+Pune,Khed Alandi
+Pune,Shirur
+Pune,Daund
+Pune,Indapur
+Pune,Baramati
+Pune,Purandar
+Pune,Bhor
+Pune,Maval
+Pune,Chinchwad
+Pune,Pimpri (SC)
+Pune,Bhosari
+Pune,Vadgaon Sheri
+Pune,Shivajinagar
+Pune,Kothrud
+Pune,Khadakwasala
+Pune,Parvati
+Pune,Hadapsar
+Pune,Pune Cantonment (SC)
+Pune,Kasba Peth
+Ahmednagar,Akole (ST)
+Ahmednagar,Sangmner
+Ahmednagar,Shirdi
+Ahmednagar,Kopargaon
+Ahmednagar,Shrirampur (SC)
+Ahmednagar,Nevasa
+Ahmednagar,Shevgaon
+Ahmednagar,Rahuri
+Ahmednagar,Parner
+Ahmednagar,Ahmednagar City
+Ahmednagar,Shrigonda
+Ahmednagar,Karjat Jamkhed
+Beed,Georai
+Beed,Majalgaon
+Beed,Beed
+Beed,Ashti
+Beed,Kaij (SC)
+Beed,Parli
+Latur,Latur Rural
+Latur,Latur City
+Latur,Ahmedpur
+Latur,Udgir (SC)
+Latur,Nilanga
+Latur,Ausa
+Osmanabad,Omerga (SC)
+Osmanabad,Tuljapur
+Osmanabad,Osmanabad
+Osmanabad,Paranda
+Solapur,Karmala
+Solapur,Madha
+Solapur,Barshi
+Solapur,Mohol (SC)
+Solapur,Solapur City North
+Solapur,Solapur City Central
+Solapur,Akkalkot
+Solapur,Solapur South
+Solapur,Pandharpur
+Solapur,Sangola
+Solapur,Malshiran (SC)
+Satara,Phaltan (SC)
+Satara,Wai
+Satara,Koregaon
+Satara,Man
+Satara,Karad North
+Satara,Karad South
+Satara,Patan
+Satara,Satara
+Ratnagiri,Dapoli
+Ratnagiri,Guhagar
+Ratnagiri,Chiplun
+Ratnagiri,Ratnagiri
+Ratnagiri,Rajapur
+Ratnagiri,Kankavli
+Ratnagiri,Kudal
+Ratnagiri,Sawantwadi
+Ratnagiri,Chandgad
+Ratnagiri,Radhanagari
+Ratnagiri,kagal
+Kolhapur,Kolhapur South
+Kolhapur,Karvir
+Kolhapur,Kolhapur North
+Kolhapur,Shahuwadi
+Kolhapur,Hatkanangle (SC)
+Kolhapur,Ichalkaranji
+Kolhapur,Shirol
+Kolhapur,Miraj (SC)
+Sangli,Sangli
+Sangli,Islampur
+Sangli,Shirala
+Sangli,Palus-Kadegaon
+Sangli,Khanpur
+Sangli,Tasgaon-Kavathe Mahankal
+Sangli,Jat
+Palghar,Dahanu (ST)
+Palghar,Vekramgrth (ST)
+Palghar,Palghar (ST)
+Palghar,Boisar (ST)
+Palghar,Nalasopara
+Palghar,Vasai
